@@ -58,20 +58,20 @@ print(f"the length of 5 letter list {fvl}\n")
 
 print(six)
 sl=len(six)
-print(f"the length of 5 letter list {sl}\n")
+print(f"the length of 6 letter list {sl}\n")
 
 print(seven)
 sel=len(seven)
-print(f"the length of 5 letter list {sel}\n")
+print(f"the length of 7 letter list {sel}\n")
 
 print(eight)
 el=len(eight)
-print(f"the length of 5 letter list {el}\n")
+print(f"the length of 8 letter list {el}\n")
 
 print(nine)
 nl=len(nine)
-print(f"the length of 5 letter list {nl}\n")
+print(f"the length of 9 letter list {nl}\n")
 
 print(ten)
 tel=len(ten)
-print(f"the length of 5 letter list {tel}\n")
+print(f"the length of 10 letter list {tel}\n")
